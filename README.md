@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arquimedes</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
-
-- 🔭 I’m currently working on **a very popular insurance company based in Panama**
+<h1 align="center">Hi 👋, I'm Arqui</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Go, golang**
 
